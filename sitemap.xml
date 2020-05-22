@@ -4,6 +4,37 @@
   
   <url>
     <loc>https://matbesancon.github.io/academic_demo/</loc>
+    <lastmod>2020-05-22T18:46:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/categories/</loc>
+    <lastmod>2020-05-22T18:46:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/tag/diary/</loc>
+    <lastmod>2020-05-22T18:46:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/category/general/</loc>
+    <lastmod>2020-05-22T18:46:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/post/</loc>
+    <lastmod>2020-05-22T18:46:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/tags/</loc>
+    <lastmod>2020-05-22T18:46:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/post/welcome/</loc>
+    <lastmod>2020-05-22T18:46:33+01:00</lastmod>
   </url>
   
   <url>
@@ -12,14 +43,6 @@
   
   <url>
     <loc>https://matbesancon.github.io/academic_demo/author/bertram-gilfoyle/</loc>
-  </url>
-  
-  <url>
-    <loc>https://matbesancon.github.io/academic_demo/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://matbesancon.github.io/academic_demo/post/</loc>
   </url>
   
   <url>
@@ -32,10 +55,6 @@
   
   <url>
     <loc>https://matbesancon.github.io/academic_demo/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://matbesancon.github.io/academic_demo/tags/</loc>
   </url>
   
 </urlset>

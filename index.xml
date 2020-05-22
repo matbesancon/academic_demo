@@ -5,12 +5,65 @@
     <link>https://matbesancon.github.io/academic_demo/</link>
       <atom:link href="https://matbesancon.github.io/academic_demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2020 18:46:33 +0100</lastBuildDate>
     <image>
       <url>https://matbesancon.github.io/academic_demo/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic website</title>
       <link>https://matbesancon.github.io/academic_demo/</link>
     </image>
+    
+    <item>
+      <title>Welcome to my website</title>
+      <link>https://matbesancon.github.io/academic_demo/post/welcome/</link>
+      <pubDate>Fri, 22 May 2020 18:46:33 +0100</pubDate>
+      <guid>https://matbesancon.github.io/academic_demo/post/welcome/</guid>
+      <description>&lt;p&gt;Welcome to my blog post.
+We can add a formula in a line $x = 3\alpha$. I can also create equations&lt;/p&gt;
+&lt;p&gt;$$
+v = 3
+$$&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://matbesancon.github.io/academic_demo/img/coloring.png&#34; alt=&#34;Coloring&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-coloring&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://matbesancon.github.io/academic_demo/academic_demo/img/posts/coloring.png&#34; data-caption=&#34;Coloring&#34;&gt;
+
+
+  &lt;img src=&#34;https://matbesancon.github.io/academic_demo/academic_demo/img/posts/coloring.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Coloring
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Blabla&lt;/p&gt;
+&lt;p&gt;Edit Monday&lt;/p&gt;
+&lt;p&gt;Blabla2&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
