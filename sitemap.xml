@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/author/bertram-gilfoyle/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matbesancon.github.io/academic_demo/tags/</loc>
+  </url>
+  
+</urlset>
